@@ -2,8 +2,8 @@
 
 - 💼 Atualmente trabalho no setor de Engenharia da Durit Brasil - Industria;
 - 🖤 Sou apaxionado por tecnologia e programação;
-- 📘 Atualmente estou cursando Engenharia de Software;
-- 👨‍💻 Simultaneamente à minha formação, busco participar de pequenos projetos, aprimorar meus conhecimentos em banco de dados relacional, SQL, Python e tecnologias afins;
+- 📘 Estou cursando Engenharia de Software;
+- 👨‍💻 Simultaneamente à minha formação, busco participar de pequenos projetos, treinamentos, aprimorar meus conhecimentos em banco de dados relacional, SQL, Python e tecnologias afins;
 - 🚀 Tenho como objetivo principal realizar minha transição de carreira para a área de desenvolvimento de sistemas, preferêncialmente como desenvolvedor back-end;
 - ✍ A constante busca por conhecimento afins se tornou um hábito prazeroso, devido ao meu carinho pela área;
 
