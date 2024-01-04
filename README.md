@@ -7,15 +7,6 @@
 - 🚀 Tenho como objetivo principal realizar minha transição de carreira para a área de desenvolvimento de sistemas, preferêncialmente como desenvolvedor back-end;
 - ✍ A constante busca por conhecimento afins se tornou um hábito prazeroso, devido ao meu carinho pela área;
 
-## Hi, I'm Ademar Ferreira,
-
-- 💼 I currently work in the Engineering sector at Durit Brasil - Industria;
-- 🖤 I'm passionate about tech and programming;
-- 📘 I'm currently studying Software Engineering;
-- 👨‍💻 Simultaneously with my training, I am looking to participate in small projects, improve my knowledge of relational databases, SQL, Python and related technologies;
-- 🚀 My main goal is to make my career transition to the field of systems development, preferably as a back-end developer;
-- ✍ The constant search for related knowledge has become a pleasurable habit, due to my affection for the area;
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademarfs)
 
 <a href="https://www.linkedin.com/in/ademarfs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
