@@ -1,7 +1,7 @@
 ## Olá, eu sou o Ademar Ferreira,
 
 - 💼 Atualmente trabalho no setor de Engenharia da Durit Brasil - Industria;
-- 🖤 Sou apaxionado por tech e programação;
+- 🖤 Sou apaxionado por tecnologia e programação;
 - 📘 Atualmente estou cursando Engenharia de Software;
 - 👨‍💻 Simultaneamente à minha formação, busco participar de pequenos projetos, aprimorar meus conhecimentos em banco de dados relacional, SQL, Python e tecnologias afins;
 - 🚀 Tenho como objetivo principal realizar minha transição de carreira para a área de desenvolvimento de sistemas, preferêncialmente como desenvolvedor back-end;
