@@ -1,5 +1,4 @@
-## Olá, eu sou o Ademar Ferreira,
-
+## Hi, my name' is Ademar Ferreira,
 
 - 💼 I currently work in the Engineering sector at Durit Brasil - Industria;
 - 🖤 I am passionate about technology and programming;
