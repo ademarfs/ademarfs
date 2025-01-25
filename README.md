@@ -1,11 +1,11 @@
 ## Hi, my name's Ademar Ferreira,
 
-- 💼 I currently work in the Engineering sector at Durit Brasil - Industria;
-- 🖤 I am passionate about technology and programming;
+- 💼 I currently work in the IT sector at Durit Brasil LTDA;
+- 🖤 I'm passionate about technology and programming;
 - 📘 I'm studying Software Engineering;
-- 👨‍💻 Simultaneously with my training, I am looking to participate in small projects, training, improve my knowledge in relational database, SQL, Python and related technologies;
-- 🚀 My main objective is to make my career transition to the area of systems development, preferably as a back-end developer;
-- ✍ The constant search for related knowledge has become a pleasurable habit, due to my affection for the area;
+- 👨‍💻 I dedicate myself daily to continuous learning in the technological area, applying my knowledge whenever possible, whether in developing new ideas, solving problems or improving processes;
+- 🚀 My goal is to become a back-end developer;
+- ✍ I strongly believe that nothing is so good that it can't be improved and nothing is so difficult that it can't be learned;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademarfs)
 
