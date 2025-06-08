@@ -4,7 +4,7 @@
 - 🖤 I'm passionate about technology and programming;
 - 📘 I'm studying Software Engineering;
 - 👨‍💻 I dedicate myself daily to continuous learning in the technological area, applying my knowledge whenever possible, whether in developing new ideas, solving problems or improving processes;
-- 🚀 My goal is to become a back-end developer;
+- 🚀 My focus is on being a back-end developer;
 - ✍ I strongly believe that nothing is so good that it can't be improved and nothing is so difficult that it can't be learned;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademarfs)
